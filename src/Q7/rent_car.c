@@ -47,4 +47,7 @@ int main(){
     // 4. print result
     printf("your car was %c\ntimr: %i Hours\n", choice, hour);
     printf("total price: %.2f RM\n", res);
+    printf("please show these details to the rental officer\n");
+    printf("thank you");
+
 }
